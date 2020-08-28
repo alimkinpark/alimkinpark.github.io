@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"');
+body {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.alif-logo {
+    width: 90px;
+    height: 53px;
+    object-fit: contain;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.Oval {
+    width: 153.1px;
+    height: 120.1px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-right-radius: 100%;
+}
+
+.Oval2 {
+    width: 260px;
+    height: 231px;
+    background-color: #422dd3;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-bottom-left-radius: 100%;
+}
+
+.Oval3 {
+    width: 202px;
+    height: 503px;
+    /* transform: rotate(20deg); */
+    background-image: linear-gradient(to bottom, rgba(74, 56, 244, 0), #422dd3);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-bottom-right-radius: 75%;
+}
+
+.Bitmap {
+    width: 328px;
+    height: 496px;
+    object-fit: contain;
+    position: absolute;
+    top: 133px;
+    left: 144px;
+}
+
+.Mask {
+    width: 368px;
+    height: 734px;
+    background-image: linear-gradient(to bottom, #4432f2 -3%, #5a49fa);
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+li.nav-item {
+    margin-left: 42px;
+}
+
+li.nav-item a {
+    color: #1a1a1a;
+    font-weight: bold;
+    letter-spacing: 1.34px;
+}
+
+.al-hajj-logo {
+    width: 145px;
+    height: 53px;
+    object-fit: contain;
+    position: absolute;
+    top: 119px;
+    left: 601px;
+}
+
+.h1 {
+    width: 634px;
+    height: 71px;
+    font-family: AirbnbCerealApp;
+    font-size: 54px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.48;
+    letter-spacing: -0.72px;
+    color: #130d4c;
+}
